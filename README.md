@@ -763,9 +763,8 @@ it('Execution', async function () {
 ```
 
 ## Exploits:
+![Untitled](https://github.com/zuint256/Damn-Vulnerable-Learnings/assets/138932688/d2460c15-9750-4a93-ab30-04560432927c)
 
-![Untitled](Damn%20Vulnerable%20Defi%20V3%20Learnings%207135a5ed24664955b7a010870f64e317/Untitled%201.png)
-
-![Untitled](Damn%20Vulnerable%20Defi%20V3%20Learnings%207135a5ed24664955b7a010870f64e317/Untitled%202.png)
+![Untitled (1)](https://github.com/zuint256/Damn-Vulnerable-Learnings/assets/138932688/1b871fcc-ea95-428f-988e-371ec13a385e)
 
 - **Note:** This challenge is excellent for learning new things I got introduced to the uniswapV2Pair swap() function then I studied how it works and how it calls the unsiwapV2Call() function.
