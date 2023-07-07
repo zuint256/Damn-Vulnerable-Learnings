@@ -1,4 +1,4 @@
-![d1](https://github.com/zuint256/Damn-Vulnerable-Learnings/assets/138932688/b3e7b044-4697-41c3-b436-4bc42b791c18)
+![d2](https://github.com/zuint256/Damn-Vulnerable-Learnings/assets/138932688/9739f6e1-82b5-45a9-a31b-fcca626a814c)
 
 # Damn Vulnerable Defi V3 Learnings
 
